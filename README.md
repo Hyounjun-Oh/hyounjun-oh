@@ -1,3 +1,6 @@
+## Stats
+https://github-readme-stats.vercel.app/api?username=Hyoujun-Oh&show_icons=true&theme=blueberry
+
 ## Resume😄
 
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
