@@ -6,7 +6,7 @@
 ## SNS
 <a href="https://www.instagram.com/5oohj/">
     <img 
-        src="http://img.shields.io/badge/-222222?style=flat&logo=아이콘명
+        src="http://img.shields.io/badge/-222222?style=flat&logo=Instagram
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <!--
