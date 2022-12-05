@@ -6,6 +6,12 @@
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
 - [2022~] DRoC Lab, Undergraduate research students
 
+## Award history
+
+- [2022] Hanium ICT Competition - Silver Award
+
+
+
 ## SNS
 <a href="https://www.instagram.com/5oohj/">
     <img 
