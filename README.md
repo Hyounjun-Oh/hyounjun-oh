@@ -6,7 +6,7 @@
 ## SNS
 <a href="https://www.instagram.com/5oohj/">
     <img 
-        src="http://img.shields.io/badge/-222222?style=flat&logo=instagram
+        src="http://img.shields.io/badge/-222222?style=flat&logo=instagram&link=https://www.instagram.com/5oohj/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <!--
