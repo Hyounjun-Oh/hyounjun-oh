@@ -1,10 +1,6 @@
 ## Stats
 ![Hyounjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjun-oh&show_icons=true&theme=blueberry)
 
-## BEAKJOON
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohj980918)](https://solved.ac/ohj980918)
-
-
 ## Resume😄
 
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
