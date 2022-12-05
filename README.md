@@ -1,6 +1,9 @@
-### Hi there 👋
+## Resume
 
+- [2017~] Jeonbuk National University Department of Mechanical Engineering
+- [2022~] DRoC Lab, Undergraduate research students
 <!--
+
 **Hyounjun-Oh/hyounjun-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
