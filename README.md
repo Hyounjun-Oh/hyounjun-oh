@@ -1,5 +1,5 @@
 ## Stats
-![Hyounjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohj_980918&show_icons=true&theme=blueberry)
+![Hyounjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjun-oh&show_icons=true&theme=blueberry)
 
 ## Resume😄
 
