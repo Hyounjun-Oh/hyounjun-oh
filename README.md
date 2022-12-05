@@ -1,4 +1,4 @@
-## Resume
+## Resume😄
 
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
 - [2022~] DRoC Lab, Undergraduate research students
@@ -6,7 +6,7 @@
 ## SNS
 <a href="https://www.instagram.com/5oohj/">
     <img 
-        src="http://img.shields.io/badge/-222222?style=flat&logo=Instagram
+        src="http://img.shields.io/badge/-222222?style=flat&logo=instagram
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <!--
