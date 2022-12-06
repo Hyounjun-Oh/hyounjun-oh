@@ -1,7 +1,7 @@
 ## Stats
 ![Hyounjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjun-oh&show_icons=true&theme=blueberry)
 
-## Resume😄
+## Career😄
 
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
 - [2022~] DRoC Lab, Undergraduate research students
