@@ -4,7 +4,7 @@
 ## Career😄
 
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
-- [2022~] DRoC Lab, Undergraduate research students
+- [2022~2023] DRoC Lab, Undergraduate research students
 
 ## Award history
 
