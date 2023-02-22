@@ -8,8 +8,8 @@
 
 ## Award history
 
-- [2022] Hanium ICT Contest(Self-driving air purifier) - Silver Award
-- [2023] Jeonbuk National University, Self-Design Contest(4-DOF cooperative robot) - Grand Prize Award
+- [2022] Hanium ICT Contest (Self-driving air purifier) :: Silver Award
+- [2023] Jeonbuk National University, Self-Design Contest (4-DOF cooperative robot) :: Grand Prize Award
 
 
 
