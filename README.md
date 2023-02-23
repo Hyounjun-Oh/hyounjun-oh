@@ -5,6 +5,7 @@
 
 - [2017~] Jeonbuk National University Department of Mechanical Engineering
 - [2022~2023] DRoC Lab, Undergraduate research students
+- [2023~] Integrated Major in Future Automotive Engineering
 
 ## Award history
 
