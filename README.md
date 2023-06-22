@@ -11,7 +11,7 @@
 
 - [2022] Hanium ICT Contest (Self-driving air purifier) :: Silver Award
 - [2023] Jeonbuk National University, Self-Design Contest (4-DOF cooperative robot) :: Grand Prize Award
-- [2023] Jeonbuk National University, Capston Design Contest (Omni-directional mobile manipulator) :: Bronze Prize
+- [2023] Jeonbuk National University, Capston Design Contest (Omni-directional mobile manipulator for tomato harvesting) :: Bronze Prize
 
 
 
