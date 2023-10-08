@@ -3,9 +3,10 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 ## Career😄
 
-- [2017~] Jeonbuk National University Department of Mechanical Engineering
+- [2017~now] Jeonbuk National University Department of Mechanical Engineering
 - [2022~2023] DRoC Lab, Undergraduate research students
-- [2023~] Integrated Major in Future Automotive Engineering
+- [2023~now] AIR Lab, Undergraduate research students
+- [2023~now] Integrated Major in Future Automotive Engineering
 
 ## Award history
 
