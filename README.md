@@ -3,7 +3,7 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/lines/{username}" width="1000" height="60"/>
+    <img src = "https://render.gitanimals.org/lines/hyounjun-oh" width="1000" height="60"/>
 </a>
 ## Career😄
 
