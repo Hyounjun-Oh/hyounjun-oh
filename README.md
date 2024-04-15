@@ -3,11 +3,9 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/lines/hyounjun-oh" width="1000" height="60"/>
-</a>
-<a href="https://github.com/devxb/gitanimals">
     <img src = "https://render.gitanimals.org/farms/hyounjun-oh"/>
 </a>
+
 ## Career😄
 
 - [2017~2024] Jeonbuk National University Department of Mechanical Engineering
