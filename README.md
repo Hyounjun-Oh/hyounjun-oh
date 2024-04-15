@@ -1,6 +1,10 @@
 ## Stats
 <!--![Hyounjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjun-oh&show_icons=true&theme=blueberry)-->
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/lines/{username}" width="1000" height="60"/>
+</a>
 ## Career😄
 
 - [2017~2024] Jeonbuk National University Department of Mechanical Engineering
