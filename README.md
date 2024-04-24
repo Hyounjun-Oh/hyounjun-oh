@@ -1,7 +1,4 @@
 ## Stats
-<a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/hyounjun-oh"/>
-</a>
 
 <!--![Hyounjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyounjun-oh&show_icons=true&theme=blueberry)-->
 ![](./profile-3d-contrib/profile-gitblock.svg)
