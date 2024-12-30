@@ -8,7 +8,7 @@
 - [2017~2024] Jeonbuk National University, Bachelor's Degree in the Mechanical Engineering
 - [2022~2023] DRoC Lab, Undergraduate Research Student
 - [2023~2024] Integrated Major in Future Automotive Engineering
-- [2024~Present] Jeonbuk National University, Master's Degree in the Electronic Engineering
+- [2024~Present] Jeonbuk National University, Master Course in the Electronic Engineering
 - [2023~Present] JBNU AI Robotics Lab
 
 ## Award History
