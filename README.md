@@ -10,7 +10,7 @@
 - [2023~2024] Integrated Major in Future Automotive Engineering
 - [2024~2026] Jeonbuk National University, Master Course in the Electronic Engineering
 - [2023~2026] JBNU AI Robotics Lab
-- [2026~ now] GlobalDefense
+- [2026~ now] GlobalDefense, Robotics SW engineer
 
 ## Award History
 
