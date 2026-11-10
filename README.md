@@ -72,7 +72,7 @@ Before that, I built perception and localization software (**Visual / Visual-Ine
     <td width="50%" align="center">
       <img src="./assets/projects/cover-lastmile-contour.png" alt="Last-mile delivery navigation"/>
       <br/><b>Outdoor Navigation for Last-mile Delivery</b>
-      <br/><sub>GNSS-Visual-Inertial localization and door mapping<br/>2024–2025</sub>
+      <br/><sub>GNSS-Visual-Inertial localization and door & building contour mapping<br/>2024–2025</sub>
     </td>
     <td width="50%" align="center">
       <img src="./assets/projects/cover-tomato-robot.jpg" alt="Omnidirectional mobile manipulator"/>
