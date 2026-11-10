@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/git-goods/gitanimals"><img src="https://render.gitanimals.org/lines/Hyounjun-Oh?pet-id=1&contribution-view=false" width="1000" height="120" alt="GitAnimals"/></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3A6EA5&center=true&vCenter=true&width=620&lines=Manipulation;Reinforcement+Learning;NVIDIA+Isaac+Sim;Visual+SLAM;Sensor+Calibration;ROS+%2F+ROS+2" alt="Typing intro"/>
 </p>
 
