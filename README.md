@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/git-goods/gitanimals"><img src="https://render.gitanimals.org/lines/Hyounjun-Oh?pet-id=1&contribution-view=false" width="1000" height="120" alt="GitAnimals"/></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3A6EA5&center=true&vCenter=true&width=620&lines=Manipulation;Reinforcement+Learning;NVIDIA+Isaac+Sim;Visual+SLAM;Sensor+Calibration;ROS+%2F+ROS+2" alt="Typing intro"/>
 </p>
 
@@ -68,7 +72,7 @@ Before that, I built perception and localization software (**Visual / Visual-Ine
     <td width="50%" align="center">
       <img src="./assets/projects/cover-lastmile-contour.png" alt="Last-mile delivery navigation"/>
       <br/><b>Outdoor Navigation for Last-mile Delivery</b>
-      <br/><sub>GNSS-Visual-Inertial localization and door & building contour mapping<br/>2024–2025</sub>
+      <br/><sub>GNSS-Visual-Inertial localization and door mapping<br/>2024–2025</sub>
     </td>
     <td width="50%" align="center">
       <img src="./assets/projects/cover-tomato-robot.jpg" alt="Omnidirectional mobile manipulator"/>
